@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-6qMwvzShaWnPJT00VFbBsYkycdvZI",
+  "object": "chat.completion",
+  "created": 1677939293,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 29,
+    "completion_tokens": 11,
+    "total_tokens": 40
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Hello there! How are you doing today?"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}
